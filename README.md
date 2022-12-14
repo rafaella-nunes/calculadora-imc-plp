@@ -1,2 +1,2 @@
-# calculadora-imc-plp
-Projeto de PLP
+# Calculadora de imc implementada em elixir
+### Alunas: Lívia Lavynia e Rafaella Nunes
